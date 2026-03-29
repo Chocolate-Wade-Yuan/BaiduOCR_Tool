@@ -4,9 +4,9 @@ from aip import AipOcr
 
 # ================= 配置区 =================
 # ！！！请替换为你自己在百度AI平台创建应用的凭证！！！
-APP_ID = '122629666'
-API_KEY = 'mOe9mcaCm4ckjnKEHwQNPR7m'
-SECRET_KEY = '1KnxCSjRgqMtRpALiGAI7UoaZMeAJFY0'
+APP_ID = 'appid'
+API_KEY = 'apikey'
+SECRET_KEY = 'secretkey'
 # ==========================================
 
 # 初始化AipOcr对象
